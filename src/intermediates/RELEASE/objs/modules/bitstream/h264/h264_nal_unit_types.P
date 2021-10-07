@@ -1,0 +1,7 @@
+intermediates/RELEASE/objs/modules/bitstream/h264/h264_nal_unit_types.o: \
+ projects/modules/bitstream/h264/h264_nal_unit_types.cpp \
+ projects/modules/bitstream/h264/h264_nal_unit_types.h \
+ projects/base/ovlibrary/log.h
+ projects/modules/bitstream/h264/h264_nal_unit_types.cpp :
+ projects/modules/bitstream/h264/h264_nal_unit_types.h :
+ projects/base/ovlibrary/log.h :

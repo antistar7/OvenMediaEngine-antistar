@@ -1,0 +1,5 @@
+intermediates/RELEASE/objs/modules/bitstream/h264/h264_slice_types.o: \
+ projects/modules/bitstream/h264/h264_slice_types.cpp \
+ projects/modules/bitstream/h264/h264_slice_types.h
+ projects/modules/bitstream/h264/h264_slice_types.cpp :
+ projects/modules/bitstream/h264/h264_slice_types.h :

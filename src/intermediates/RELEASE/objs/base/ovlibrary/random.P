@@ -1,0 +1,5 @@
+intermediates/RELEASE/objs/base/ovlibrary/random.o: \
+ projects/base/ovlibrary/random.cpp projects/base/ovlibrary/random.h \
+ projects/base/ovlibrary/./string.h
+ projects/base/ovlibrary/random.cpp projects/base/ovlibrary/random.h :
+ projects/base/ovlibrary/./string.h :

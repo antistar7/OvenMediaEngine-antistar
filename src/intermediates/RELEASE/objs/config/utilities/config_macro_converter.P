@@ -1,0 +1,5 @@
+intermediates/RELEASE/objs/config/utilities/config_macro_converter.o: \
+ projects/config/utilities/config_macro_converter.cpp \
+ projects/config/utilities/config_macro_converter.h
+ projects/config/utilities/config_macro_converter.cpp :
+ projects/config/utilities/config_macro_converter.h :

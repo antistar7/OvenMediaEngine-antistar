@@ -1,0 +1,13 @@
+intermediates/RELEASE/objs/base/ovlibrary/regex.o: \
+ projects/base/ovlibrary/regex.cpp projects/base/ovlibrary/./regex.h \
+ projects/base/ovlibrary/././error.h \
+ projects/base/ovlibrary/./././string.h \
+ projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h \
+ projects/base/ovlibrary/./stack_trace.h \
+ /opt/ovenmediaengine/include/pcre2.h
+ projects/base/ovlibrary/regex.cpp projects/base/ovlibrary/./regex.h :
+ projects/base/ovlibrary/././error.h :
+ projects/base/ovlibrary/./././string.h :
+ projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h :
+ projects/base/ovlibrary/./stack_trace.h :
+ /opt/ovenmediaengine/include/pcre2.h :

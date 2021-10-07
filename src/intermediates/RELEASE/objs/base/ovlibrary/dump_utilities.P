@@ -1,0 +1,15 @@
+intermediates/RELEASE/objs/base/ovlibrary/dump_utilities.o: \
+ projects/base/ovlibrary/dump_utilities.cpp \
+ projects/base/ovlibrary/./dump_utilities.h \
+ projects/base/ovlibrary/././string.h projects/base/ovlibrary/./data.h \
+ projects/base/ovlibrary/././assert.h projects/base/ovlibrary/././log.h \
+ projects/base/ovlibrary/././stack_trace.h \
+ projects/base/ovlibrary/././memory_utilities.h \
+ projects/base/ovlibrary/./ovlibrary_private.h
+ projects/base/ovlibrary/dump_utilities.cpp :
+ projects/base/ovlibrary/./dump_utilities.h :
+ projects/base/ovlibrary/././string.h projects/base/ovlibrary/./data.h :
+ projects/base/ovlibrary/././assert.h projects/base/ovlibrary/././log.h :
+ projects/base/ovlibrary/././stack_trace.h :
+ projects/base/ovlibrary/././memory_utilities.h :
+ projects/base/ovlibrary/./ovlibrary_private.h :

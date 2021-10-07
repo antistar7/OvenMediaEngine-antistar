@@ -1,0 +1,11 @@
+intermediates/RELEASE/objs/base/ovlibrary/queue.o: \
+ projects/base/ovlibrary/queue.cpp projects/base/ovlibrary/./queue.h \
+ projects/base/ovlibrary/././dump_utilities.h \
+ projects/base/ovlibrary/./././string.h projects/base/ovlibrary/././log.h \
+ projects/base/ovlibrary/././ovdata_structure.h \
+ projects/base/ovlibrary/././stop_watch.h
+ projects/base/ovlibrary/queue.cpp projects/base/ovlibrary/./queue.h :
+ projects/base/ovlibrary/././dump_utilities.h :
+ projects/base/ovlibrary/./././string.h projects/base/ovlibrary/././log.h :
+ projects/base/ovlibrary/././ovdata_structure.h :
+ projects/base/ovlibrary/././stop_watch.h :

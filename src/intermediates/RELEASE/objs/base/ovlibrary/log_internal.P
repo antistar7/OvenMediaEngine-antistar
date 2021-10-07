@@ -1,0 +1,13 @@
+intermediates/RELEASE/objs/base/ovlibrary/log_internal.o: \
+ projects/base/ovlibrary/log_internal.cpp \
+ projects/base/ovlibrary/log_internal.h \
+ projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h \
+ projects/base/ovlibrary/./stack_trace.h \
+ projects/base/ovlibrary/././string.h \
+ projects/base/ovlibrary/./log_write.h projects/base/ovlibrary/platform.h
+ projects/base/ovlibrary/log_internal.cpp :
+ projects/base/ovlibrary/log_internal.h :
+ projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h :
+ projects/base/ovlibrary/./stack_trace.h :
+ projects/base/ovlibrary/././string.h :
+ projects/base/ovlibrary/./log_write.h projects/base/ovlibrary/platform.h :
