@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/publishers/segment/segment_stream/segment_http_server_manager.o: \
- projects/publishers/segment/segment_stream/segment_http_server_manager.cpp \
- projects/publishers/segment/segment_stream/segment_http_server_manager.h
- projects/publishers/segment/segment_stream/segment_http_server_manager.cpp :
- projects/publishers/segment/segment_stream/segment_http_server_manager.h :

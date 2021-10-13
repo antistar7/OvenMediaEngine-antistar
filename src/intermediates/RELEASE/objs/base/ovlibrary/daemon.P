@@ -1,3 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/daemon.o: \
- projects/base/ovlibrary/daemon.cpp projects/base/ovlibrary/daemon.h
- projects/base/ovlibrary/daemon.cpp projects/base/ovlibrary/daemon.h :

@@ -1,3 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/platform.o: \
- projects/base/ovlibrary/platform.cpp projects/base/ovlibrary/platform.h
- projects/base/ovlibrary/platform.cpp projects/base/ovlibrary/platform.h :

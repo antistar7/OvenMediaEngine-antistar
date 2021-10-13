@@ -1,9 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/string.o: \
- projects/base/ovlibrary/string.cpp projects/base/ovlibrary/./string.h \
- projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h \
- projects/base/ovlibrary/./stack_trace.h projects/base/ovlibrary/./data.h \
- projects/base/ovlibrary/././memory_utilities.h
- projects/base/ovlibrary/string.cpp projects/base/ovlibrary/./string.h :
- projects/base/ovlibrary/./assert.h projects/base/ovlibrary/./log.h :
- projects/base/ovlibrary/./stack_trace.h projects/base/ovlibrary/./data.h :
- projects/base/ovlibrary/././memory_utilities.h :

@@ -1,7 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/stop_watch.o: \
- projects/base/ovlibrary/stop_watch.cpp \
- projects/base/ovlibrary/stop_watch.h projects/base/ovlibrary/./string.h \
- projects/base/ovlibrary/./log.h
- projects/base/ovlibrary/stop_watch.cpp :
- projects/base/ovlibrary/stop_watch.h projects/base/ovlibrary/./string.h :
- projects/base/ovlibrary/./log.h :

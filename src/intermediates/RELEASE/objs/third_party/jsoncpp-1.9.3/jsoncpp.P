@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/third_party/jsoncpp-1.9.3/jsoncpp.o: \
- projects/third_party/jsoncpp-1.9.3/jsoncpp.cpp \
- projects/third_party/jsoncpp-1.9.3/json/json.h
- projects/third_party/jsoncpp-1.9.3/jsoncpp.cpp :
- projects/third_party/jsoncpp-1.9.3/json/json.h :

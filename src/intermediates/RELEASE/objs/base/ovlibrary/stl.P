@@ -1,3 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/stl.o: \
- projects/base/ovlibrary/stl.cpp projects/base/ovlibrary/stl.h
- projects/base/ovlibrary/stl.cpp projects/base/ovlibrary/stl.h :

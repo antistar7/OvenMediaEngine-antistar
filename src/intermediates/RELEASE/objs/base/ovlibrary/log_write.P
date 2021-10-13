@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/log_write.o: \
- projects/base/ovlibrary/log_write.cpp \
- projects/base/ovlibrary/log_write.h
- projects/base/ovlibrary/log_write.cpp :
- projects/base/ovlibrary/log_write.h :

@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/bit_writer.o: \
- projects/base/ovlibrary/bit_writer.cpp \
- projects/base/ovlibrary/bit_writer.h
- projects/base/ovlibrary/bit_writer.cpp :
- projects/base/ovlibrary/bit_writer.h :

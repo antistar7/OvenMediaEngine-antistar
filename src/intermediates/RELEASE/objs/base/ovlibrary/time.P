@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/time.o: \
- projects/base/ovlibrary/time.cpp projects/base/ovlibrary/./time.h \
- projects/base/ovlibrary/././string.h
- projects/base/ovlibrary/time.cpp projects/base/ovlibrary/./time.h :
- projects/base/ovlibrary/././string.h :

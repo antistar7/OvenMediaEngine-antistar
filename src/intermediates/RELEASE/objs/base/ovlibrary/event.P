@@ -1,5 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/event.o: \
- projects/base/ovlibrary/event.cpp projects/base/ovlibrary/event.h \
- projects/base/ovlibrary/./ovdata_structure.h
- projects/base/ovlibrary/event.cpp projects/base/ovlibrary/event.h :
- projects/base/ovlibrary/./ovdata_structure.h :

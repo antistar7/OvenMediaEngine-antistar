@@ -1,7 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/assert.o: \
- projects/base/ovlibrary/assert.cpp projects/base/ovlibrary/assert.h \
- projects/base/ovlibrary/log.h projects/base/ovlibrary/stack_trace.h \
- projects/base/ovlibrary/./string.h
- projects/base/ovlibrary/assert.cpp projects/base/ovlibrary/assert.h :
- projects/base/ovlibrary/log.h projects/base/ovlibrary/stack_trace.h :
- projects/base/ovlibrary/./string.h :

@@ -1,7 +1,0 @@
-intermediates/RELEASE/objs/base/ovlibrary/stack_trace.o: \
- projects/base/ovlibrary/stack_trace.cpp \
- projects/base/ovlibrary/stack_trace.h projects/base/ovlibrary/./string.h \
- projects/base/ovlibrary/platform.h
- projects/base/ovlibrary/stack_trace.cpp :
- projects/base/ovlibrary/stack_trace.h projects/base/ovlibrary/./string.h :
- projects/base/ovlibrary/platform.h :
